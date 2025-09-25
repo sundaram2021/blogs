@@ -1,0 +1,6 @@
+title: sundaram2021's Blog
+description: A Blog site generated for sundaram2021
+theme: minima
+plugins:
+  - jekyll-feed
+future: true
